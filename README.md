@@ -14,3 +14,5 @@
 В теле main.py на строке с 98 по 102 введите свои существующие данные для соединения и доступа PostgreSQL (без этого скрипт не будет работать)
 
 Запустите main.py
+
+Ссылка на таблицу https://docs.google.com/spreadsheets/d/1_rcPa41hXLIV3dAq4gNGWIgbbjwGGWCOcoMiGSwVzJo/edit#gid=0
